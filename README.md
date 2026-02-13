@@ -25,6 +25,9 @@ I'm a Computer Engineering student at McGill University, passionate about buildi
 ## 🌱 Always learning
 I’m constantly exploring new ways to simplify systems, design better interfaces, and build tools that feel intuitive and fast.
 
+## 🔗 Links
+- **Website:** https://aronsegovia.com  
+- **LinkedIn:** https://www.linkedin.com/in/aron-segovia  
+
 ## 📫 Reach out
 Feel free to connect or collaborate — I love meeting people who build things.
-
